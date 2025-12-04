@@ -50,6 +50,12 @@ main {
     padding: 2%;
 }
 
+main a {
+	font-weight: bold;
+	text-decoration: none;
+	color: red;
+}
+
 /* Style rules for hamburger menu */
 .mobile-nav a {
 	color: #000;
